@@ -1,0 +1,7 @@
+= 手册
+
+== 编译
+```
+./mvnw
+```
+编译后生成的 HTML5 文件在 `spring-beet-manual/target/generated-docs` 目录
